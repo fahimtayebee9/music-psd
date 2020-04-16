@@ -1,0 +1,131 @@
+body{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, #0a2345, #101c35, #101525, #0b0c17, #010102);
+    font-family: 'Montserrat Regular',sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    display: inline-block;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(185, 183, 255, 0.671);
+}
+button.navbar-toggler i {
+    color: #2a5da3;
+}
+.banner-content{
+    padding: 100px 0px;
+}
+.banner-content h1{
+    color: #ffffff;
+    font-family: 'Montserrat Bold',sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+.banner-content p{
+    color: #2a5da3;
+    margin-top: 20px;
+}
+.banner-content h1 span{
+    color: #2a5da3;
+}
+.btn-custom {
+    color: white!important;
+    border: none;
+    border: 2px solid #2a5da3;
+    border-radius: 50px;
+    padding: 7px 20px;
+    margin-top: 35px;
+}
+.btn-custom:hover {
+    color: white!important;
+    border: 2px solid #ffffff;
+}
+.music-play{
+    background-image: url(../images/wave.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.img-w img{
+    width: 90%;
+}
+.headphone-banner{
+    background-image: url(../images/headphone.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 600px;
+    padding: 240px 0px;
+}
+.headphone-banner h1{
+    color: #ffffff;
+    font-family: 'Montserrat Regular',sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+}
+.headphone-banner h1 span{
+    color: #2a5da3;
+}
+.headphone-banner p{
+    color: #66778e;
+    margin-top: 10px;
+}
+.features h1{
+    color: #ffffff;
+    font-family: 'Montserrat Bold',sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+.features p{
+    color: #66778e;
+    font-size: 12px;
+    line-height: 28px;
+}
+.features h1 span{
+    color: #2a5da3;
+}
+.features-content{
+    background-image: url(../images/features-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 630px;
+    padding: 150px 0px;
+}
+.features-content i{
+    font-size: 25px;
+    color: #ff3334;
+}
+.features-content h6{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 0px;
+    font-family: 'Montserrat Bold',sans-serif;
+}
+.features-content .col-12 {
+    margin-bottom: 30px;
+}
+.ad-banner{
+    background-image: url(../images/ads.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+    padding: 150px 0;
+}
+.ad-banner i{
+    font-size: 25px;
+    color: #ff3334;
+}
+.ad-banner h6{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 0px;
+    font-family: 'Montserrat Bold',sans-serif;
+}
+.ad-banner p{
+    color: #66778e;
+    font-size: 12px;
+    line-height: 28px;
+}

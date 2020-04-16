@@ -1,0 +1,112 @@
+@media(max-width: 1199px) {
+    .headphone-banner {
+        background-size: 476px;
+        padding: 200px 0px;
+    }
+    .ad-banner {
+        background-size: 575px;
+        padding: 150px 0;
+    }
+    .headphone-banner h1 {
+        font-size: 30px;
+    }
+}
+@media(max-width: 991px) {
+    .headphone-banner {
+        background-size: 476px;
+        padding: 150px 0px;
+    }
+    .ad-banner {
+        background-size: 489px;
+        padding: 150px 0;
+    }
+}
+@media(max-width: 768px) {
+    .banner-content p {
+        font-size: 13px;
+    }
+    .banner-content h1 {
+        font-size: 25px;
+    }
+    .headphone-banner {
+        background-size: 370px;
+        padding: 100px 0px;
+    }
+    .headphone-banner h1 {
+        font-size: 22px;
+    }
+    .headphone-banner h1 span {
+        font-weight: 800;
+    }
+    .headphone-banner p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .features-content {
+        background-size: 270px;
+        padding: 38px 0px;
+    }
+    .features h1 {
+        font-size: 30px;
+    }
+    .features-content h6 {
+        font-size: 15px;
+    }
+    .features-content i {
+        font-size: 24px;
+    }
+    .features p {
+        line-height: 24px;
+    }
+    .ad-banner {
+        background-size: 438px;
+        padding-top: 50px;
+        padding-bottom: 100px;
+    }
+}
+@media (max-width: 575px) {
+    .banner-content h1 {
+        font-size: 20px;
+    }
+    .banner-content {
+        padding: 50px 0px;
+        /* padding-bottom: 50px; */
+    }
+    .headphone-banner {
+        padding: 100px 0px;
+    }
+    .headphone-banner h1 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .headphone-banner p {
+        font-size: 12px;
+        line-height: 26px;
+    }
+    .features h1 {
+        font-size: 20px;
+        font-weight: 700;
+        padding: 20px 0;
+    }
+    .features-content {
+        background-image: url(../images/features-image.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-blend-mode: overlay;
+        background-color: #00000099;
+        background-size: 400px;
+        padding: 50px 0px;
+    }
+    .ad-banner {
+        background-blend-mode: overlay;
+        background-color: #071427;
+        padding: 20px 0;
+        background-size: 333px;
+    }
+    .ad-banner p{
+        color: white;
+    }
+    .navbar-brand {
+        width: 75%;
+    }
+}
